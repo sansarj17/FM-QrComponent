@@ -23,7 +23,7 @@ Desktop View
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-component-hXg-CjnI7)
 - Live Site URL: [Live Site](https://sansarj17.github.io/FM-QrComponent/)
 
 ### Built with
